@@ -25,9 +25,9 @@ You need Python 3.12 and Git installed. Links:
 1. Open a terminal (PowerShell on Windows, Terminal on Mac/Linux)
 2. Run these one at a time:
 
-   git clone https://github.com/SYEDAZEEM1102/technocore-did-starter.git
-   cd technocore-did-starter
-   pip install -r requirements.txt
+git clone https://github.com/SYEDAZEEM1102/technocore-did-starter.git
+cd technocore-did-starter
+pip install -r requirements.txt
 
 ## Create your identity
 Run the tool and follow the prompts. It will ask you to:
